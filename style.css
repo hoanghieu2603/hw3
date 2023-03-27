@@ -1,0 +1,13 @@
+h1{
+    color: rgb(17, 158, 194);
+    font-size: 50px;
+}
+h2{
+    color: rgb(255, 153, 0);
+    font-size: 40px;
+}
+a{
+    color: rgb(78, 223, 21);
+    font-size: 30px;
+    background-color: pink;
+}
